@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CalcularAreas</id>
+    <version>1.0.0</version>
+    <authors>CalcularAreas</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.runtimeconfig.json" target="lib\net6.0\CalcularAreas.runtimeconfig.json" />
+    <file src="D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.dll" target="lib\net6.0\CalcularAreas.dll" />
+  </files>
+</package>

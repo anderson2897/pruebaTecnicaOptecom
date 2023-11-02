@@ -1,0 +1,15 @@
+D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.exe
+D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.deps.json
+D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.runtimeconfig.json
+D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.dll
+D:\Programa\CalcularAreas\CalcularAreas\bin\Debug\net6.0\CalcularAreas.pdb
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.csproj.AssemblyReference.cache
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.AssemblyInfoInputs.cache
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.AssemblyInfo.cs
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.csproj.CoreCompileInputs.cache
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.dll
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\refint\CalcularAreas.dll
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.pdb
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\CalcularAreas.genruntimeconfig.cache
+D:\Programa\CalcularAreas\CalcularAreas\obj\Debug\net6.0\ref\CalcularAreas.dll
